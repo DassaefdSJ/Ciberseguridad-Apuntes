@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "32305d9049424ffd",
+        "id": "eb88b3286fb56db8",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes de Computadoras/COMANDOS DE EXAMEN.md",
+                "file": "Lenguajes y Automatas/Lección 1- leer una clase y un método de Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMANDOS DE EXAMEN"
+              "title": "Lección 1- leer una clase y un método de Python"
             }
           }
         ]
@@ -175,9 +175,11 @@
   },
   "active": "68baf1975c9795c7",
   "lastOpenFiles": [
+    "Lenguajes y Automatas/Lección 1- leer una clase y un método de Python.md",
+    "Lenguajes y Automatas",
+    "Apuntes de ciberseguridad/🌐 Conectar y Proteger-Redes y Seguridad de Red.md",
     "Redes de Computadoras/COMANDOS DE EXAMEN.md",
     "Apuntes de ciberseguridad/🛡️ Gestionar los Riesgos de Seguridad.md",
-    "Apuntes de ciberseguridad/🌐 Conectar y Proteger-Redes y Seguridad de Red.md",
     "dark web.md",
     "Apuntes de ciberseguridad/🔐Fundamentos de la Ciberseguridad.md",
     "Apuntes de ciberseguridad",
